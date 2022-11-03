@@ -1,9 +1,7 @@
 <script lang="ts" setup></script>
 
 <template>
-  <div>
-    Page: Syllabus
-  </div>
+  <div>The syllabus will show up here someday.</div>
 </template>
 
 <style scoped></style>
